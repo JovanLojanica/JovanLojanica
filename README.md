@@ -9,7 +9,7 @@
  - Currently: Undergraduate Computer Science Student @ University of Illinois Chicago
  
 ## About me 📖:
-I'm a senior at the University of Illinois Chicago, passionate about all things computer science. Currently diving deep into the realms of C++ and C, with a sprinkle of Python, and eagerly gearing up to conquer Java and Web Development 🚀. Graduating in 2025, I'm on a mission to blend creativity with code and build the future one project at a time. Let's connect, collaborate, and code together! 💻
+As a kid, I'd spend hours tinkering with gadgets, dreaming of a world transformed by technology. Today, as a senior at the University of Illinois Chicago, that passion fuels my journey in computer science. From diving into C++ and C to dabbling in Python and soon Java and Web Development, I'm on a mission to blend creativity with code, crafting solutions that shape the future. Graduating in 2025, let's join forces to code a brighter tomorrow together! 💻
 
 ## 🧠 I’m currently learning...
 - Data Structures & Algorithms
